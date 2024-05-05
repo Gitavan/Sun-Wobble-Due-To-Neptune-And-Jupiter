@@ -9,7 +9,7 @@ Plotted the XY coordinates of Jupiter and Saturn if the Sun was at a fixed point
 ### Task 2
 Similar to Task 1, but now the XY coordinates of the sun were calculated by the attraction forces exerted by Jupiter and Saturn
 The result is showcased as a plot and GIF.
-###Task 3
+### Task 3
 Plotted only the Sun Coordinates in comparison to its centre of mass
 Generated a GIF showcasing the plot path.
 
