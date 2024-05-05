@@ -13,13 +13,11 @@ The result is showcased as a plot and GIF.
 Plotted only the Sun Coordinates in comparison to its centre of mass.
 Generated a GIF showcasing the plot path.
 
-
-
 ## Files
-- `Computational Assignment - Sun's Wobble.ipynb`: The main Python script that users need to run.
-- `SunJupSat.gif`: GIF image demonstrating the output.
-- `SunForce.gif`: Another GIF image demonstrating the output.
-- `SunWobble.gif`: Yet another GIF image demonstrating the output.
+- `Computational Assignment - Sun's Wobble.ipynb`: The main code
+- `SunJupSat.gif`: GIF image demonstrated the output of Task 1.
+- `SunForce.gif`: GIF image demonstrated the output of Task 2.
+- `SunWobble.gif`: GIF image demonstrated the output of Task 3.
 
 ## Usage
 Simply run `Computational Assignment - Sun's Wobble.ipynb` and you are good to go.
